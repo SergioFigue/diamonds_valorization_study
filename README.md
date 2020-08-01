@@ -2,6 +2,8 @@
 
 **The Diamond Valorization** is an analytic and visual study of a dataset containing thousands of **diamonds**.
 
+(https://camo.githubusercontent.com/add1c13a42865258b3abfd950b69d9ac2b6c8dbc/68747470733a2f2f796f75726469616d6f6e64746561636865722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f30322f596f75726469616d6f6e64746561636865722e6a7067)
+
 ## The Worthy Purpose
 
 The purpose of this study is to try and find the influence of different attributes and measures of a diamond in said diamond price. Through a series of calculations and operations, we will clean irrelevant data while learning the basics of the distribution while representing in charts and boxes relevant information. 
@@ -31,7 +33,8 @@ The final step is a dynamic visualization created on Tableau. Take a look at the
 
 **Basic knowledge**:
 ___
-- The 4Cs of Diamonds: carat, color, cut and clarity:
+The 4Cs of Diamonds: carat, color, cut and clarity:
+
 🔹 Color: GIA's D-to-Z color-grading system measures the degree of colorlessness by comparing a stone under controlled lighting and precise viewing conditions to masterstones of established color value. The scale begins with the letter D, representing colorless, and continues, with increasing presence of color, to the letter Z.
 
 🔹 Clarity: Evaluating diamond clarity involves determining the number, size, relief, nature, and position of 'inclusions' and 'blemishes.', as well as how these affect the overall appearance of the stone. The GIA Clarity Scale has 6 categories, some of which are divided for a total of 11 specific grades.
@@ -39,8 +42,10 @@ ___
 🔹 Cut: A diamond's cut grade is really about how well a diamond's facets interact with light. The GIA Cut Grading System for the standard round brilliant diamond evaluates seven components.
 
 🔹Carat: Diamond carat weight is the measurement of how much a diamond weighs. A metric "carat" is defined as 200 milligrams. Each carat can be subdivided into 100 'points.' This allows very precise measurements to the hundredth decimal place.
-- Calculations of a diamond: % Table and % Depth
-- Measurements: x, y and z  
+
+Calculations of a diamond: % Table and % Depth
+
+Measurements: x, y and z  
 
 
 ## The Main Conclussions  
